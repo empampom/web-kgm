@@ -110,6 +110,20 @@
                         <img alt="" class="img-fluid rounded w-100" src="{{ asset('assets/img/usg-kamar-bedah.png') }}">
                     </div>
                 </div>
+                <div class="col-xl-7 wow fadeInLeft" data-wow-delay="0.2s">
+                    <div class="card bg-success">
+                        <div class="card-body text-white">
+                            <h4 class="text-white">Daftar rekanan yang lolos seleksi :</h4>
+                            <ul>
+                                <li>PT. Beyond Medical Indonesia</li>
+                                <li>PT. Mulya Husada Kaya (MHJ)</li>
+                                <li>PT. Nusantara Medecare Indah</li>
+                                <li>PT. Arinda Mitra Sejahtera</li>
+                                <li>PT. Global Medika Persada</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

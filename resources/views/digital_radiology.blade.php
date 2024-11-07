@@ -50,27 +50,40 @@
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-xl-7 wow fadeInLeft" data-wow-delay="0.2s">
-                    <div>
-                        <h4 class="text-primary">Digital Radiology</h4>
-                        {{-- <h1 class="display-5 mb-4">Meet our company unless miss the opportunity</h1> --}}
-                        <p>
-                            Berikut kami lampirkan detail dan spesifikasi kebutuhan Digital Radiology
-                            <br>
-                            Silahkan klik tombol dibawah
-                        </p>
-                        <div class="row g-4">
-                            <div class="col-sm-6">
-                                <a class="btn btn-primary rounded-pill py-3 px-5 flex-shrink-0" download href="{{ asset('assets/doc/KAK-DIGITAL-RADIOLOGY.pdf') }}">Download</a>
-                            </div>
+                    <h4 class="text-primary">Digital Radiology</h4>
+                    {{-- <h1 class="display-5 mb-4">Meet our company unless miss the opportunity</h1> --}}
+                    <p>
+                        Berikut kami lampirkan detail dan spesifikasi kebutuhan Digital Radiology
+                        <br>
+                        Silahkan klik tombol dibawah
+                    </p>
+                    <div class="row g-4">
+                        <div class="col-sm-6">
+                            <a class="btn btn-primary rounded-pill py-3 px-5 flex-shrink-0" download href="{{ asset('assets/doc/KAK-DIGITAL-RADIOLOGY.pdf') }}">Download</a>
                         </div>
-                        <p class="mt-3">
-                            Seluruh dokumen penawaran dan dokumen persyaratan dapat dikirim melalui email berikut : <a href="mailto:timtender.rsup@gmail.com">timtender.rsup@gmail.com</a>
-                        </p>
                     </div>
+                    <p class="mt-3">
+                        Seluruh dokumen penawaran dan dokumen persyaratan dapat dikirim melalui email berikut : <a href="mailto:timtender.rsup@gmail.com">timtender.rsup@gmail.com</a>
+                    </p>
                 </div>
                 <div class="col-xl-5 wow fadeInRight" data-wow-delay="0.2s">
                     <div class="bg-primary rounded position-relative overflow-hidden">
                         <img alt="" class="img-fluid rounded w-100" src="{{ asset('assets/img/digital-radiology.png') }}">
+                    </div>
+                </div>
+                <div class="col-xl-7 wow fadeInLeft" data-wow-delay="0.2s">
+                    <div class="card bg-success">
+                        <div class="card-body text-white">
+                            <h4 class="text-white">Daftar rekanan yang lolos seleksi :</h4>
+                            <ul>
+                                <li>PT. Global Medika Persada</li>
+                                <li>PT. Sinergy Lintas Persada</li>
+                                <li>PT. Berca Niaga Medika</li>
+                                <li>PT. Enseval</li>
+                                <li>PT. Murti Indah Sentosa</li>
+                                <li>PT. Mulya Husada Kaya (MHJ)</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
