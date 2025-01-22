@@ -124,6 +124,32 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-xl-12 wow fadeInLeft" data-wow-delay="0.2s">
+                    <div class="card bg-success">
+                        <div class="card-body text-white">
+                            <h4 class="text-white">Pengumuman pemenang :</h4>
+                            <p>
+                                Merujuk surat undangan dan negosiasi pengadaan Alat USG Urologi RS Umum Pekerja Nomor
+                                22/EXT/RSUP.TDR.2.0/09/2024 tanggal 7 – 13 November 2024, serta berdasarkan keputusan
+                                rapat Direksi RS Umum Pekerja PT KBN Graha Medika dan Tim Tender Pengadaan bersama
+                                kami sampaikan pemenang Tender Alat USG Urologi sebagai berikut:
+                            </p>
+                            <p class="fw-bold fs-4">
+                                Nama Perusahaan : PT. Mulya Husada Jaya
+                                <br>
+                                Alamat : Ruko taman kedoya indah Blok RA-8D/F Jl. Kedoya Kembangan Raya No. 10, Jakarta Barat 11520
+                            </p>
+                            <p>
+                                Demikian pemberitahuan pemenang tender ini disampaikan, dan bagi peserta yang belum
+                                mendapatkan kesempatan kami Tim Tender Pengadaan RS Umum Pekerja mengucapkan
+                                Terima Kasih atas segala partisipasinya.
+                            </p>
+                            <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary rounded-pill py-3 px-5 flex-shrink-0" download href="{{ asset('assets/doc/SURAT-PEMENANG-USG-UROLOGI.pdf') }}">Download</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

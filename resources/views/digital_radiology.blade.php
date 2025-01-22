@@ -86,6 +86,32 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-xl-12 wow fadeInLeft" data-wow-delay="0.2s">
+                    <div class="card bg-success">
+                        <div class="card-body text-white">
+                            <h4 class="text-white">Pengumuman pemenang :</h4>
+                            <p>
+                                Merujuk surat undangan dan negosiasi pengadaan Alat Digital Radiology RS Umum Pekerja
+                                Nomor 21/EXT/RSUP.TDR.2.0/09/2024 tanggal 5 – 12 November 2024, serta berdasarkan
+                                keputusanrapat Direksi RS Umum Pekerja PT KBN Graha Medika dan Tim Tender Pengadaan
+                                bersama kami sampaikan pemenang Tender Alat Digital Radiology sebagai berikut:
+                            </p>
+                            <p class="fw-bold fs-4">
+                                Nama Perusahaan : PT. Global Medik Persada
+                                <br>
+                                Alamat : Jl. Raya Kebon Jeruk No. 26 RT.11 RW.02, Kebon Jeruk Jakarta Barat 11530
+                            </p>
+                            <p>
+                                Demikian pemberitahuan pemenang tender ini disampaikan, dan bagi peserta yang belum
+                                mendapatkan kesempatan kami Tim Tender Pengadaan RS Umum Pekerja mengucapkan
+                                Terima Kasih atas segala partisipasinya.
+                            </p>
+                            <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary rounded-pill py-3 px-5 flex-shrink-0" download href="{{ asset('assets/doc/SURAT-PEMENANG-DIGITAL-RADIOLOGY.pdf') }}">Download</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
