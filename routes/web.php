@@ -14,3 +14,6 @@ Route::get('/usg-urologi', function () {
 Route::get('/digital-radiology', function () {
     return view('digital_radiology');
 })->name('digital_radiology');
+Route::get('/console-ct-scan', function () {
+    return view('console_ct_scan');
+})->name('console_ct_scan');

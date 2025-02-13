@@ -152,6 +152,19 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img alt="Image" class="img-fluid rounded-top w-100" src="assets/img/service-4.jpg">
+                        </div>
+                        <div class="rounded-bottom p-4">
+                            <span class="h4 d-inline-block mb-4">Console CT Scan</span>
+                            {{-- <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, sint? Excepturi facilis neque nesciunt similique officiis veritatis, --}}
+                            </p>
+                            <a class="btn btn-primary rounded-pill py-2 px-4" href="{{ route('console_ct_scan') }}">Lihat Detail</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -232,14 +245,8 @@
     <div class="container-fluid copyright py-4">
         <div class="container">
             <div class="row g-4 align-items-center">
-                <div class="col-md-6 text-center text-md-start mb-md-0">
+                <div class="col-md-12 text-center text-md-start mb-md-0">
                     <span class="text-body"><a class="border-bottom text-white" href="#"><i class="fas fa-copyright text-light me-2"></i>KBN Graha Medika</a>, All right reserved.</span>
-                </div>
-                <div class="col-md-6 text-center text-md-end text-body">
-                    <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
-                    <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
-                    <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
-                    Designed By <a class="border-bottom text-white" href="https://htmlcodex.com">HTML Codex</a> Distributed By <a class="border-bottom text-white" href="https://themewagon.com">ThemeWagon</a>
                 </div>
             </div>
         </div>

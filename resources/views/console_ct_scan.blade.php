@@ -49,67 +49,75 @@
     <div class="container-fluid about py-5">
         <div class="container py-5">
             <div class="row g-5 align-items-center">
-                <div class="col-xl-7 wow fadeInLeft" data-wow-delay="0.2s">
-                    <h4 class="text-primary">Digital Radiology</h4>
+                <div class="col-xl-12 wow fadeInLeft" data-wow-delay="0.2s">
+                    <h4 class="text-primary">Console CT Scan</h4>
                     <p>
-                        Berikut kami lampirkan detail dan spesifikasi kebutuhan Digital Radiology
-                        <br>
-                        Silahkan klik tombol dibawah
+                        Berikut persyaratan yang diperlukan peserta tender :
+                    </p>
+                    <h5>Dokumen Penawaran</h5>
+                    <h6>Dokumen Penawaran terdiri atas :</h6>
+                    <ol>
+                        <li>Dokumen Administrasi, yang berisi :</li>
+                        <ul>
+                            <li>Surat Pengantar Penawaran (Kop Perusahaan) bermaterai cukup, ditandatangani oleh Direktur beserta Cap Stempel Perusahaan (Sesuai contoh terlampir).</li>
+                            <li>Surat Pernyataan (Kop Perusahaan) bermaterai cukup, ditandatangani oleh Direktur beserta Cap Stempel Perusahaan (Sesuai contoh terlampir).</li>
+                            <li>Pakta Integritas (Kop Perusahaan) bermaterai cukup, ditandatangani oleh Direktur beserta Cap Stempel Perusahaan (Sesuai contoh terlampir).</li>
+                        </ul>
+                        <li>Dokumen Usulan Teknis, yang berisi :</li>
+                        <ul>
+                            <li>Surat kuasa bermaterai Rp. 10.000, -jika mewakili pimpinan perusahaan.</li>
+                            <li>Foto copy KTP Direktur/Pimpinan.</li>
+                            <li>Foto copy KTP koresponden.</li>
+                            <li>Foto copy NPWP.</li>
+                            <li>Foto copy NIB/SIUP.</li>
+                            <li>Foto copy CDAKB yang masih berlaku.</li>
+                            <li>Surat Jaminan keaslian produk (LOA).</li>
+                            <li>Foto copy keterangan domisili perusahaan.</li>
+                            <li>Foto copy Tanda Daftar Perusahaan (TDP).</li>
+                            <li>Foto copy Surat Pengukuhan Perusahaan Kena Pajak (SPPKP).</li>
+                            <li>Foto copy surat keterangan menteri hukum dan HAM.</li>
+                            <li>Foto copy Akta Pendirian Perusahaan & Perubahan Terakhir.</li>
+                            <li>Foto copy IDAK.</li>
+                            <li>Foto copy pembayaran pajak tahun terakhir (SPT).</li>
+                            <li>Surat asli pakta integritas yang ditandatangani oleh pimpinan perusahaan.</li>
+                            <li>Denah/tampak depan Perusahaan/gambar di google maps.</li>
+                            <li>Laporan Keuangan 3 tahun terakhir (laba rugi dan posisi keuangan).</li>
+                            <li>Pengalaman Kerja dalam bentuk daftar referensi atau populasi RS.</li>
+                            <li>Dokumen-dokumen quality perusahaan (ISO, sertifikasi dll. ).</li>
+                            <li>Mempunyai Surat Ijin Impor alat console CT scan.</li>
+                            <li>Surat Ijin edar/AKL.</li>
+                        </ul>
+                        <li>Dokumen Usulan Biaya, yang berisi :</li>
+                        <ul>
+                            <li>Surat Penawaran Harga.</li>
+                            <li>Brosur atau spesifikasi barang yang ditawarkan.</li>
+                        </ul>
+                    </ol>
+                    <h5>Tenaga Ahli (bersertifikasi) Pelaksana Pekerjaan</h5>
+                    <ol>
+                        <li>Untuk melaksanakan pekerjaan ini dibutuhkan tenaga ahli profesional di bidangnya yang berpengalaman dan dengan jumlah yang cukup (sesuai dengan dokumen teknis) dengan melampirkan :</li>
+                        <ul>
+                            <li>Curriculum Vitae (seperti contoh dalam lampiran).</li>
+                            <li>Copy Ijazah Terakhir Tenaga Ahli.</li>
+                            <li>Copy KTP Tenaga Ahli yang masih berlaku.</li>
+                            <li>Copy Sertifikasi Tenaga Ahli.</li>
+                            <li>Copy NPWP Tenaga Ahli.</li>
+                        </ul>
+                        <li>Tenaga Ahli tersebut di atas tidak diperbolehkan merangkap jabatan dengan pihak ketiga (baik klasifikasi pekerjaan yang berbeda) di wilayah usaha PT KBN Graha Medika.</li>
+                        <li>Dokumen Pribadi Tenaga Ahli pada saat proses tender harus yang masih berlaku seperti/contohnya : KTP, Sertifikat yang ada masa berlakunya dan lain sebagainya.</li>
+                        <li>Masing-masing Penyedia Jasa wajib menyampaikan Tenaga Ahli di bidangnya sesuai dengan yang dipersyaratkan.</li>
+                    </ol>
+                    <p>
+                        Untuk informasi lebih lanjut silahkan klik tombol dibawah
                     </p>
                     <div class="row g-4">
                         <div class="col-sm-6">
-                            <a class="btn btn-primary rounded-pill py-3 px-5 flex-shrink-0" download href="{{ asset('assets/doc/KAK-DIGITAL-RADIOLOGY.pdf') }}">Download</a>
+                            <a class="btn btn-primary rounded-pill py-3 px-5 flex-shrink-0" download href="{{ asset('assets/doc/RKS-CONSOLE-CT-SCAN.pdf') }}">Download</a>
                         </div>
                     </div>
                     <p class="mt-3">
                         Seluruh dokumen penawaran dan dokumen persyaratan dapat dikirim melalui email berikut : <a href="mailto:timtender.rsup@gmail.com">timtender.rsup@gmail.com</a>
                     </p>
-                </div>
-                <div class="col-xl-5 wow fadeInRight" data-wow-delay="0.2s">
-                    <div class="bg-primary rounded position-relative overflow-hidden">
-                        <img alt="" class="img-fluid rounded w-100" src="{{ asset('assets/img/digital-radiology.png') }}">
-                    </div>
-                </div>
-                <div class="col-xl-7 wow fadeInLeft" data-wow-delay="0.2s">
-                    <div class="card bg-success">
-                        <div class="card-body text-white">
-                            <h4 class="text-white">Daftar rekanan yang lolos seleksi :</h4>
-                            <ul>
-                                <li>PT. Global Medika Persada</li>
-                                <li>PT. Sinergy Lintas Persada</li>
-                                <li>PT. Berca Niaga Medika</li>
-                                <li>PT. Enseval</li>
-                                <li>PT. Murti Indah Sentosa</li>
-                                <li>PT. Mulya Husada Kaya (MHJ)</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-12 wow fadeInLeft" data-wow-delay="0.2s">
-                    <div class="card bg-success">
-                        <div class="card-body text-white">
-                            <h4 class="text-white">Pengumuman pemenang :</h4>
-                            <p>
-                                Merujuk surat undangan dan negosiasi pengadaan Alat Digital Radiology RS Umum Pekerja
-                                Nomor 21/EXT/RSUP.TDR.2.0/09/2024 tanggal 5 – 12 November 2024, serta berdasarkan
-                                keputusanrapat Direksi RS Umum Pekerja PT KBN Graha Medika dan Tim Tender Pengadaan
-                                bersama kami sampaikan pemenang Tender Alat Digital Radiology sebagai berikut:
-                            </p>
-                            <p class="fw-bold fs-4">
-                                Nama Perusahaan : PT. Global Medik Persada
-                                <br>
-                                Alamat : Jl. Raya Kebon Jeruk No. 26 RT.11 RW.02, Kebon Jeruk Jakarta Barat 11530
-                            </p>
-                            <p>
-                                Demikian pemberitahuan pemenang tender ini disampaikan, dan bagi peserta yang belum
-                                mendapatkan kesempatan kami Tim Tender Pengadaan RS Umum Pekerja mengucapkan
-                                Terima Kasih atas segala partisipasinya.
-                            </p>
-                            <div class="d-flex justify-content-end">
-                                <a class="btn btn-primary rounded-pill py-3 px-5 flex-shrink-0" download href="{{ asset('assets/doc/SURAT-PEMENANG-DIGITAL-RADIOLOGY.pdf') }}">Download</a>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -140,7 +148,7 @@
     <div class="container-fluid copyright py-4">
         <div class="container">
             <div class="row g-4 align-items-center">
-                <div class="col-md-12 text-center text-md-start mb-md-0">
+                <div class="col-md-6 text-center text-md-start mb-md-0">
                     <span class="text-body"><a class="border-bottom text-white" href="#"><i class="fas fa-copyright text-light me-2"></i>KBN Graha Medika</a>, All right reserved.</span>
                 </div>
             </div>
