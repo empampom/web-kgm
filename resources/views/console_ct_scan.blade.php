@@ -107,14 +107,6 @@
                         <li>Dokumen Pribadi Tenaga Ahli pada saat proses tender harus yang masih berlaku seperti/contohnya : KTP, Sertifikat yang ada masa berlakunya dan lain sebagainya.</li>
                         <li>Masing-masing Penyedia Jasa wajib menyampaikan Tenaga Ahli di bidangnya sesuai dengan yang dipersyaratkan.</li>
                     </ol>
-                    <p>
-                        Untuk informasi lebih lanjut silahkan klik tombol dibawah
-                    </p>
-                    <div class="row g-4">
-                        <div class="col-sm-6">
-                            <a class="btn btn-primary rounded-pill py-3 px-5 flex-shrink-0" download href="{{ asset('assets/doc/RKS-CONSOLE-CT-SCAN.pdf') }}">Download</a>
-                        </div>
-                    </div>
                     <p class="mt-3">
                         Seluruh dokumen penawaran dan dokumen persyaratan dapat dikirim melalui email berikut : <a href="mailto:timtender.rsup@gmail.com">timtender.rsup@gmail.com</a>
                     </p>
