@@ -104,7 +104,7 @@
                         Pendaftaran dan pengumpulan dokumen hardcopy dan softcopy pada tanggal <strong>21 – 27 Februari 2025</strong>
                     </p>
                     <p class="mt-3">
-                        Seluruh dokumen penawaran dan dokumen persyaratan dapat dikirim melalui email berikut : <a href="mailto:rkorsup@gmail.com">timtender.rsup@gmail.com</a>
+                        Seluruh dokumen penawaran dan dokumen persyaratan dapat dikirim melalui email berikut : <a href="mailto:rkorsup@gmail.com">rkorsup@gmail.com</a>
                     </p>
                 </div>
             </div>
