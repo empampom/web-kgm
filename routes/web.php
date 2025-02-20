@@ -17,3 +17,6 @@ Route::get('/digital-radiology', function () {
 Route::get('/console-ct-scan', function () {
     return view('console_ct_scan');
 })->name('console_ct_scan');
+Route::get('/obat-alkes-2025', function () {
+    return view('obat_alkes_2025');
+})->name('obat_alkes_2025');

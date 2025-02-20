@@ -165,6 +165,19 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img alt="Image" class="img-fluid rounded-top w-100" src="assets/img/service-5.jpg">
+                        </div>
+                        <div class="rounded-bottom p-4">
+                            <span class="h4 d-inline-block mb-4">Obat & Alkes 2025</span>
+                            {{-- <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, sint? Excepturi facilis neque nesciunt similique officiis veritatis, --}}
+                            </p>
+                            <a class="btn btn-primary rounded-pill py-2 px-4" href="{{ route('obat_alkes_2025') }}">Lihat Detail</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
